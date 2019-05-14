@@ -6,7 +6,7 @@
 
 발표자|제목|링크
 --|--|--
-[강전혁](https://github.com/DinnerKang)|
+[강전혁](https://github.com/DinnerKang)|Vscode 플러그인 만들기|[2019.02_Dinner.pdf](./2019.02_Dinner.pdf)
 [권우준](https://github.com/jeremy2spade)|
 [김재억](https://github.com/100milliongold)|
 [박두호](https://github.com/pakddo)|나는 어떻게 이직을 하였는가|[2019.02_dhpark.pdf](./2019.02_dhpark.pdf)
