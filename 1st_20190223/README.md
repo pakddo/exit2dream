@@ -6,15 +6,13 @@
 
 발표자|제목|링크
 --|--|--
-[강전혁](https://github.com/DinnerKang)|Vscode 플러그인 만들기|[2019.02_Dinner.pdf](./2019.02_Dinner.pdf)
-[권우준](https://github.com/jeremy2spade)|
-[김재억](https://github.com/100milliongold)|
-[박두호](https://github.com/pakddo)|나는 어떻게 이직을 하였는가|[2019.02_dhpark.pdf](./2019.02_dhpark.pdf)
-[박범진](https://github.com/pbj0812)|
-[정인철](https://github.com/kabby91)|
-[한용준](https://github.com/dydwnsekd)|
-
-
+[DinnerKang](https://github.com/DinnerKang)|Vscode 플러그인 만들기|[2019.02_Dinner.pdf](./2019.02_Dinner.pdf)
+[jeremy2spade](https://github.com/jeremy2spade)|
+[100milliongold](https://github.com/100milliongold)|
+[pakddo](https://github.com/pakddo)|나는 어떻게 이직을 하였는가|[2019.02_dhpark.pdf](./2019.02_dhpark.pdf)
+[pbj0812](https://github.com/pbj0812)|
+[kabby91](https://github.com/kabby91)|
+[dydwnsekd](https://github.com/dydwnsekd)|
 
 - 뒷풀이 :
   - 사당역 전주 전집

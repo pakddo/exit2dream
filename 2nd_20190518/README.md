@@ -6,10 +6,11 @@
 
 발표자|제목|링크
 --|--|--
-[강전혁](https://github.com/DinnerKang)|
-[권우준](https://github.com/jeremy2spade)|
-[김재억](https://github.com/100milliongold)|
-[박두호](https://github.com/pakddo)|
-[박범진](https://github.com/pbj0812)|
-[정인철](https://github.com/kabby91)|
-[한용준](https://github.com/dydwnsekd)|
+[DinnerKang](https://github.com/DinnerKang)|
+[jeremy2spade](https://github.com/jeremy2spade)|
+[100milliongold](https://github.com/100milliongold)|
+[pakddo](https://github.com/pakddo)|
+[pbj0812](https://github.com/pbj0812)|
+[정여훈]()|
+[kabby91](https://github.com/kabby91)|
+[dydwnsekd](https://github.com/dydwnsekd)|
