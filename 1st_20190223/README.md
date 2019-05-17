@@ -10,7 +10,7 @@
 [jeremy2spade](https://github.com/jeremy2spade)|
 [100milliongold](https://github.com/100milliongold)|
 [pakddo](https://github.com/pakddo)|나는 어떻게 이직을 하였는가|[2019.02_dhpark.pdf](./2019.02_dhpark.pdf)
-[pbj0812](https://github.com/pbj0812)|
+[pbj0812](https://github.com/pbj0812)|퍼셉트론|[2019.02_bjpark.pptx](./2019.02_bjpark.pptx)
 [kabby91](https://github.com/kabby91)|
 [dydwnsekd](https://github.com/dydwnsekd)|
 
