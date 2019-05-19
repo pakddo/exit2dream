@@ -9,8 +9,11 @@
 [DinnerKang](https://github.com/DinnerKang)|풀스텍 경험해보기|[2019.05_Dinner.pdf](./2019.05_Dinner.pdf)
 [jeremy2spade](https://github.com/jeremy2spade)|
 [100milliongold](https://github.com/100milliongold)|
-[pakddo](https://github.com/pakddo)|ㄷ데이터엔지니어로6개월 살아보 |[2019.05_pakddo.pdf](./2019.05_pakddo.pdf)
+[pakddo](https://github.com/pakddo)|데이터엔지니어로6개월 살아보 |[2019.05_pakddo.pdf](./2019.05_pakddo.pdf)
 [pbj0812](https://github.com/pbj0812)|
 [YeoHoonYun](https://github.com/YeoHoonYun)|
 [kabby91](https://github.com/kabby91)|
 [dydwnsekd](https://github.com/dydwnsekd)|
+
+- 뒷풀이:
+  - 곱창집 + 소맥
