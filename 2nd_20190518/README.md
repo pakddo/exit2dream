@@ -6,7 +6,7 @@
 
 발표자|제목|링크
 --|--|--
-[DinnerKang](https://github.com/DinnerKang)|
+[DinnerKang](https://github.com/DinnerKang)|풀스텍 경험해보기|[2019.05_Dinner.pdf](./2019.05_Dinner.pdf)
 [jeremy2spade](https://github.com/jeremy2spade)|
 [100milliongold](https://github.com/100milliongold)|
 [pakddo](https://github.com/pakddo)|
