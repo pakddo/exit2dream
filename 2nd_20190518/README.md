@@ -8,7 +8,7 @@
 --|--|--
 [DinnerKang](https://github.com/DinnerKang)|풀스텍 경험해보기|[2019.05_Dinner.pdf](./2019.05_Dinner.pdf)
 [jeremy2spade](https://github.com/jeremy2spade)|
-[100milliongold](https://github.com/100milliongold)|
+[100milliongold](https://github.com/100milliongold)|reveal.js 로 손쉽게 프레젠테이션 만들기|[2019.05_100milliongold.pdf](./2019.05_100milliongold.pdf)
 [pakddo](https://github.com/pakddo)|데이터엔지니어로6개월 살아보기 |[2019.05_pakddo.pdf](./2019.05_pakddo.pdf)
 [pbj0812](https://github.com/pbj0812)|
 [YeoHoonYun](https://github.com/YeoHoonYun)|
