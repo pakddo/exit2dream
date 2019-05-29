@@ -15,5 +15,5 @@
 [dydwnsekd](https://github.com/dydwnsekd)|
 
 - 뒷풀이 :
-  - 사당역 전주 전집
+  - 사당역 전주 전집 (http://bit.ly/2wrket4)
   - 그 옆 맥주집
