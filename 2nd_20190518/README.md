@@ -16,4 +16,4 @@
 [dydwnsekd](https://github.com/dydwnsekd)|
 
 - 뒷풀이:
-  - 곱창집 + 소맥
+  - 논현 이모왕곱창 (http://bit.ly/2wzO2Ed)
