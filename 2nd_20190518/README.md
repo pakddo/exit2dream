@@ -13,7 +13,7 @@
 [pbj0812](https://github.com/pbj0812)|
 [YeoHoonYun](https://github.com/YeoHoonYun)|
 [kabby91](https://github.com/kabby91)|
-[dydwnsekd](https://github.com/dydwnsekd)|
+[dydwnsekd](https://github.com/dydwnsekd)|기묘한 이직기|
 
 - 뒷풀이:
   - 논현 이모왕곱창 (http://bit.ly/2wzO2Ed)
