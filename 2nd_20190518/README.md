@@ -10,7 +10,7 @@
 [jeremy2spade](https://github.com/jeremy2spade)|부하분산로그수집
 [100milliongold](https://github.com/100milliongold)|reveal.js 로 손쉽게 프레젠테이션 만들기|[2019.05_100milliongold.pdf](./2019.05_100milliongold.pdf)
 [pakddo](https://github.com/pakddo)|데이터엔지니어로6개월 살아보기 |[2019.05_pakddo.pdf](./2019.05_pakddo.pdf)
-[pbj0812](https://github.com/pbj0812)|
+[pbj0812](https://github.com/pbj0812)|로스 계산하기
 [YeoHoonYun](https://github.com/YeoHoonYun)|
 [kabby91](https://github.com/kabby91)|
 [dydwnsekd](https://github.com/dydwnsekd)|기묘한 이직기|
