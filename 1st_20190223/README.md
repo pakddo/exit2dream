@@ -11,9 +11,10 @@
 [100milliongold](https://github.com/100milliongold)|InfluxDB,Telegref 을 통한 손쉬운 모니터닝 시스템구축|[2019.02_100milliongold.pdf](./2019.02_100milliongold.pdf)
 [pakddo](https://github.com/pakddo)|나는 어떻게 이직을 하였는가|[2019.02_pakddo.pdf](./2019.02_dhpark.pdf)
 [pbj0812](https://github.com/pbj0812)|퍼셉트론|[2019.02_bjpark.pdf](./2019.02_bjpark.pdf)
-[kabby91](https://github.com/kabby91)|
+[kabby91](https://github.com/kabby91)|-|(비공개)
 [dydwnsekd](https://github.com/dydwnsekd)|Spark 맛보기|[2019.02_dydwnsekd.pdf](./2019.02_dydwnsekd.pdf)
 
 - 뒷풀이 :
   - 사당역 전주 전집 (http://bit.ly/2wrket4)
   - 그 옆 맥주집
+
