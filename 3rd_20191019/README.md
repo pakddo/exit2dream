@@ -7,7 +7,7 @@
 
 발표자|제목|자료링크
 --|--|--
-[DinnerKang](https://github.com/DinnerKang)|-| -        
+[DinnerKang](https://github.com/DinnerKang)|3개월 후...|[2019.05_Dinner.pdf](./2019.05_Dinner.pdf)     
 [jeremy2spade](https://github.com/jeremy2spade)|-|-
 [100milliongold](https://github.com/100milliongold)|-|-
 [pakddo](https://github.com/pakddo)|(불참) |-
