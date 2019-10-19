@@ -7,7 +7,7 @@
 
 발표자|제목|자료링크
 --|--|--
-[DinnerKang](https://github.com/DinnerKang)|3개월 후...|[2019.05_Dinner.pdf](./2019.05_Dinner.pdf)     
+[DinnerKang](https://github.com/DinnerKang)|3개월 후...|[2019.10_Dinner.pdf](./2019.10_Dinner.pdf)     
 [jeremy2spade](https://github.com/jeremy2spade)|-|-
 [100milliongold](https://github.com/100milliongold)|-|-
 [pakddo](https://github.com/pakddo)|(불참) |-
@@ -15,6 +15,8 @@
 [YeoHoonYun](https://github.com/YeoHoonYun)|(불참)|-
 [kabby91](https://github.com/kabby91)|-|-
 [dydwnsekd](https://github.com/dydwnsekd)|-|-
+[H]|-|-
+[P]|-|-
 
-- 뒷풀이:
-  - 미정
+- 뒷풀이 :
+  - 사당역 전주 전집 (http://bit.ly/2wrket4)
