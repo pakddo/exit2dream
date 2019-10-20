@@ -13,7 +13,7 @@
 [pakddo](https://github.com/pakddo)|(불참) |-
 [pbj0812](https://github.com/pbj0812)|-|-
 [YeoHoonYun](https://github.com/YeoHoonYun)|(불참)|-
-[kabby91](https://github.com/kabby91)|[급SI란.pdf]|-
+[kabby91](https://github.com/kabby91)|급SI란|[급SI란.pdf](./급SI란.pdf)
 [dydwnsekd](https://github.com/dydwnsekd)|-|-
 [H]|-|-
 [P]|-|-
